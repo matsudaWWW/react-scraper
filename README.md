@@ -17,6 +17,6 @@ Scrapbox を CMS の簡易なバックエンドとして使いたかったので
 
 ### どう使う？
 
-- GitHub 上で https://github.com/yuiseki/scrapbox-nextjs-template を開く
+- GitHub 上で https://github.com/matsudaWWW/react-scraper を開く
 - Use this template というボタンを押す
 - next.config.js を編集する
